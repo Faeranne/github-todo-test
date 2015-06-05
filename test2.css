@@ -39,6 +39,7 @@ ul.tagit li.tagit-choice input {
 	display: block;
 	float: left;
 	margin: 2px 5px 2px 0;
+    box-sizing:         border-box;
 }
 ul.tagit input[type="text"] {
     -moz-box-sizing:    border-box;
@@ -52,3 +53,6 @@ ul.tagit input[type="text"] {
 	background-color: inherit;
     outline: none;
 }
+
+/* change to see how github reacts */
+/* more changes */
